@@ -1,0 +1,5 @@
+import Teste from 'components/Main'
+
+export default function Home() {
+  return <Teste />
+}
