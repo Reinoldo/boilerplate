@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+/.vscode/settings.json
+react-udemy-course.code-workspace
 
 # debug
 npm-debug.log*
